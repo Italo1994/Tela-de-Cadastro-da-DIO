@@ -1,71 +1,57 @@
-# Getting Started with Create React App
+<h1 align="center">Clone da Tela de Cadastro - DIO</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![capa_atual_tela_cadastro](https://user-images.githubusercontent.com/26884429/210156199-f7f16f64-4f8b-4c21-bc9d-19ef215a1485.png)
 
-## Available Scripts
+<h1 align="center">Badges</h1>
 
-In the project directory, you can run:
+![Data de Lançamento](https://img.shields.io/badge/Data%20de%20Lan%C3%A7amento-Dezembro%2F2022-purple) ![Status do Projeto](https://img.shields.io/badge/Status%20do%20Projeto-Em%20Andamento-yellow)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h1 align="center">Índice</h1>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<h1 align="center">Descrição do Projeto</h1>
+<p>
+  Este projeto tem o objetivo de implementar um clone da tela de cadastro da Digital Innovation One (DIO). A aplicação foi construída em React e utiliza o styled-components para a estilização dos componentes. A página de cadastro apresenta um Header que é global à toda a aplicação e um formulário para que o usuário possa inserir os dados para se cadastrar na plataforma.
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h1 align="center">Status do Projeto</h1>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> :construction: Projeto em Fase Final de Desenvolvimento :construction:
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h1 align="center">:hammer: Funcionalidades do projeto</h1>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- `Funcionalidade 1`: cadastrar dados do usuário
+- `Funcionalidade 2`: submeter os dados do usuário para teste de validação
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h1 align="center"> 📁 Acesso ao Projeto</h1>
 
-## Learn More
+*Clone o repositório https://github.com/Italo1994/Tela-de-Cadastro-da-DIO.git*
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h1 align="center"> 🛠️ Abrir e Rodar o Projeto</h1>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+*Após clonar o repositório do projeto na sua máquina local, execute os comandos abaixo:*
 
-### Code Splitting
+- `Instalar as dependências do projeto`: npm install
+- `Executar o projeto`: npm start
+- `Acesse o seu localhost no navegador para o projeto`: [http://localhost:3000](http://localhost:3000)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<h1 align="center"> Tecnologias Utilizadas</h1>
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Tela de Cadastro da DIO
+- `React`
+- `styled-components`
